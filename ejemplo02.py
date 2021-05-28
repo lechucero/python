@@ -37,12 +37,12 @@
 # # print(())
 
 # # Dictionaries
-# print(
-#      {
-#          "nombre"   :   "Yosip",
-#          "apellido" :   "Urquizo",
-#          "usuario"  :   "yurquizo"
-#      })
+print(
+     {
+         "nombre"   :   "Yosip",
+         "apellido" :   "Urquizo",
+         "usuario"  :   "yurquizo"
+     })
 
-# # # # None
-# print(None)
+# # # None
+print(None)
